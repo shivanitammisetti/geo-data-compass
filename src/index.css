@@ -8,54 +8,33 @@ All colors MUST be HSL.
 
 @layer base {
   :root {
-    /* Earth Science Theme - Space & Data Inspired */
-    --background: 220 20% 97%;
-    --foreground: 220 15% 15%;
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
 
-    --card: 220 25% 98%;
-    --card-foreground: 220 15% 15%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
 
-    --popover: 220 25% 98%;
-    --popover-foreground: 220 15% 15%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
 
-    /* NASA Blue inspired primary */
-    --primary: 220 85% 25%;
-    --primary-foreground: 220 25% 98%;
-    --primary-glow: 220 85% 35%;
+    --primary: 222.2 47.4% 11.2%;
+    --primary-foreground: 210 40% 98%;
 
-    /* Cosmic secondary */
-    --secondary: 240 50% 92%;
-    --secondary-foreground: 220 85% 25%;
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
 
-    /* Data muted tones */
-    --muted: 220 15% 94%;
-    --muted-foreground: 220 10% 50%;
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
 
-    /* Scientific accent */
-    --accent: 190 85% 88%;
-    --accent-foreground: 220 85% 25%;
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222.2 47.4% 11.2%;
 
-    /* Alert colors */
-    --destructive: 0 75% 55%;
-    --destructive-foreground: 220 25% 98%;
-    --warning: 35 85% 55%;
-    --warning-foreground: 220 25% 98%;
-    --success: 140 60% 45%;
-    --success-foreground: 220 25% 98%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
 
-    /* Interface elements */
-    --border: 220 15% 87%;
-    --input: 220 15% 94%;
-    --ring: 220 85% 25%;
-
-    /* Custom gradients */
-    --gradient-cosmic: linear-gradient(135deg, hsl(220 85% 25%), hsl(240 80% 35%));
-    --gradient-earth: linear-gradient(135deg, hsl(190 85% 45%), hsl(220 85% 25%));
-    --gradient-data: linear-gradient(90deg, hsl(220 85% 25% / 0.05), hsl(190 85% 45% / 0.1));
-    
-    /* Shadows */
-    --shadow-data: 0 4px 20px -4px hsl(220 85% 25% / 0.15);
-    --shadow-glow: 0 0 30px hsl(220 85% 35% / 0.3);
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 222.2 84% 4.9%;
 
     --radius: 0.5rem;
 
